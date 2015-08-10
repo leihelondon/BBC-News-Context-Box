@@ -1,0 +1,1 @@
+define([],function(){var a={version:"0.1.0",keyCode:{ESCAPE:27,UPARROW:38,DOWNARROW:40,ENTER:13}};return a});
